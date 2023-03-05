@@ -50,14 +50,17 @@ if (!place_meeting(x,y+1,oWall))
 }
 /*else
 {
-     image_speed = 1;
-	 if (hsp == 0)
-     {
-	      sprite_index = sPlayer;	 
-     }
-	 else
-	 {
-		  sprite_index = sPlayerR;
-	 }	 
-}*/
+	image_speed = 1;
+	if (hsp == 0)
+	{
+		sprite_index = sPlayer;
+	}
+	else
+	{
+		sprite_index = sPlayerR;
+	}
+}*/	
+	
+if (hsp != 0) image_xscale = sign(hsp);
+
   
