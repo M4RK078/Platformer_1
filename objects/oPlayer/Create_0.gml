@@ -7,3 +7,5 @@ jumpThreshold = 10;
 
 spriteRight = image_xscale;
 spriteLeft = image_xscale * -1;
+
+score = 0;
