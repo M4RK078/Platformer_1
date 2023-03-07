@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oWall",
+  "name": "oFloor",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sWall",
-    "path": "sprites/sWall/sWall.yy",
+    "name": "sFloor",
+    "path": "sprites/sFloor/sFloor.yy",
   },
   "spriteMaskId": null,
   "visible": true,

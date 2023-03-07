@@ -2,9 +2,9 @@
 vsp += grv;
 
 //Vertical Collision
-if (place_meeting(x,y+vsp,oWall)) 
+if (place_meeting(x,y+vsp,oFloor)) 
 {
-     while (!place_meeting (x,y+sign(vsp),oWall))
+     while (!place_meeting (x,y+sign(vsp),oFloor))
      {
          y += sign(vsp);      
 	 }

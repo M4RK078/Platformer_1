@@ -1,7 +1,7 @@
 hsp = 0;
 vsp = 0;
 grv = 0.3;
-walkSpeed = 5;
+walkSpeed = 4;
 jumpHeight = 7;
 jumpThreshold = 10;
 

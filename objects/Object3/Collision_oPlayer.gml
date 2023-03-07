@@ -1,2 +1,0 @@
-score++;
-instance_destroy();
