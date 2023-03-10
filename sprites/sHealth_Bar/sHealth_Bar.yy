@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "sHealthBar",
-  "bbox_bottom": 14,
-  "bbox_left": 2,
-  "bbox_right": 28,
+  "name": "sHealth_Bar",
+  "bbox_bottom": 21,
+  "bbox_left": 15,
+  "bbox_right": 15,
   "bbox_top": 4,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e88de2ee-aa56-48af-98b8-73136ea594c2",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"71f9af28-990d-47af-a62d-16fba99c34a9",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 32,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"93791cde-4006-4761-89ad-36004c409df5","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"121df656-1fc9-479f-977b-b9df3a6b8627","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "sHealthBar",
+    "name": "sHealth_Bar",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e88de2ee-aa56-48af-98b8-73136ea594c2","path":"sprites/sHealthBar/sHealthBar.yy",},},},"Disabled":false,"id":"f9164f93-960b-4ede-9028-465e36cce4dc","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"71f9af28-990d-47af-a62d-16fba99c34a9","path":"sprites/sHealth_Bar/sHealth_Bar.yy",},},},"Disabled":false,"id":"7774867c-dfba-46d3-9991-1d8ab7b25116","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
